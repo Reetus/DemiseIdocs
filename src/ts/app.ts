@@ -36,10 +36,10 @@ $(document).ready(() => {
 function preloadImages():Promise<HTMLImageElement[]> {
     return new Promise((resolve, reject) => {
         var a:Array<any> = [];
-        a[0] = loadImage('/images/Felucca-runes.png');
-        a[1] = loadImage('/images/Trammel-runes.png');
-        a[3] = loadImage('/images/Malas-runes.png');
-        a[4] = loadImage('/images/Tokuno-runes.png');
+        a[0] = loadImage('images/Felucca-runes.png');
+        a[1] = loadImage('images/Trammel-runes.png');
+        a[3] = loadImage('images/Malas-runes.png');
+        a[4] = loadImage('images/Tokuno-runes.png');
 
         Promise.all(a)
         .then((d) => {
@@ -60,13 +60,13 @@ function initEvents(ui:UI) {
 
     doc.on('click', '.mapremove', function(e:UIEvent) {
         delRow($(this).parents('tr'));
-        e.preventDefault();        
+        e.preventDefault();
     });
 
     $(window).resize((e) => {
         ui.setHeight();
         ui.redrawMap();
-    })    
+    })
 }
 
 function loadImage(url:string):Promise<HTMLImageElement> {

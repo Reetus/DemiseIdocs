@@ -1,1 +1,189 @@
-[{"owner":"Maestro","name":"An Unnamed House","condition":"This structure is slightly worn.","firstSeen":1500229160807,"location":{"x":1887,"y":1345,"map":3}},{"owner":"Rune","name":"An Unnamed House","condition":"This structure is greatly worn.","firstSeen":1500227012174,"location":{"x":2108,"y":1517,"map":3}},{"owner":"Rawkus","name":"An Unnamed House","condition":"This structure is slightly worn.","firstSeen":1500227690007,"location":{"x":2031,"y":626,"map":3}},{"owner":"Axel","name":"An Unnamed House","condition":"This structure is greatly worn.","firstSeen":1500236068438,"location":{"x":676,"y":1355,"map":1}},{"owner":"Ash","name":"An Unnamed House","condition":"This structure is greatly worn.","firstSeen":1500236070755,"location":{"x":642,"y":1367,"map":1}},{"owner":"Mala","name":"An Unnamed House","condition":"This structure is somewhat worn.","firstSeen":1500227021074,"location":{"x":2074,"y":1591,"map":3}},{"owner":"King Solomon","name":"Holy Lair","condition":"This structure is slightly worn.","firstSeen":1500231142916,"location":{"x":1522,"y":1950,"map":0}},{"owner":"killa","name":"An Unnamed House","condition":"This structure is in danger of collapsing.","firstSeen":1500227255645,"location":{"x":1146,"y":341,"map":3}},{"owner":"JO SMART","name":"An Unnamed House","condition":"This structure is greatly worn.","firstSeen":1500227009841,"location":{"x":2119,"y":1554,"map":3}},{"owner":"uni","name":"uduki kansitower","condition":"This structure is greatly worn.","firstSeen":1500233910458,"location":{"x":1071,"y":3110,"map":1}},{"owner":"Iona","name":"Heroes III","condition":"This structure is slightly worn.","firstSeen":1500228246958,"location":{"x":2224,"y":1259,"map":3}},{"owner":"Oryx","name":"King\u0027s Fall","condition":"This structure is somewhat worn.","firstSeen":1500229663515,"location":{"x":1730,"y":176,"map":3}},{"owner":"Valencia","name":"An Unnamed House","condition":"This structure is somewhat worn.","firstSeen":1500227632400,"location":{"x":1974,"y":799,"map":3}},{"owner":"Ambrosius","name":"An Unnamed House","condition":"This structure is slightly worn.","firstSeen":1500227696929,"location":{"x":1994,"y":603,"map":3}},{"owner":"William Harrison","name":"An Unnamed House","condition":"This structure is slightly worn.","firstSeen":1500226866577,"location":{"x":2059,"y":700,"map":3}},{"owner":"Wepkin","name":"An Unnamed House","condition":"This structure is fairly worn.","firstSeen":1500228930704,"location":{"x":1328,"y":1674,"map":3}},{"owner":"Zinethar","name":"An Unnamed House","condition":"This structure is fairly worn.","firstSeen":1500233836075,"location":{"x":1790,"y":2838,"map":1}}]
+[
+    {
+        "owner": "Maestro",
+        "name": "An Unnamed House",
+        "condition": "This structure is slightly worn.",
+        "firstSeen": 1500200360807,
+        "location": {
+            "x": 1887,
+            "y": 1345,
+            "map": 3
+        }
+    },
+    {
+        "owner": "Rune",
+        "name": "An Unnamed House",
+        "condition": "This structure is greatly worn.",
+        "firstSeen": 1500198212174,
+        "location": {
+            "x": 2108,
+            "y": 1517,
+            "map": 3
+        }
+    },
+    {
+        "owner": "Rawkus",
+        "name": "An Unnamed House",
+        "condition": "This structure is slightly worn.",
+        "firstSeen": 1500198890007,
+        "location": {
+            "x": 2031,
+            "y": 626,
+            "map": 3
+        }
+    },
+    {
+        "owner": "Axel",
+        "name": "An Unnamed House",
+        "condition": "This structure is greatly worn.",
+        "firstSeen": 1500207268438,
+        "location": {
+            "x": 676,
+            "y": 1355,
+            "map": 1
+        }
+    },
+    {
+        "owner": "Ash",
+        "name": "An Unnamed House",
+        "condition": "This structure is greatly worn.",
+        "firstSeen": 1500207270755,
+        "location": {
+            "x": 642,
+            "y": 1367,
+            "map": 1
+        }
+    },
+    {
+        "owner": "Mala",
+        "name": "An Unnamed House",
+        "condition": "This structure is somewhat worn.",
+        "firstSeen": 1500198221074,
+        "location": {
+            "x": 2074,
+            "y": 1591,
+            "map": 3
+        }
+    },
+    {
+        "owner": "King Solomon",
+        "name": "Holy Lair",
+        "condition": "This structure is slightly worn.",
+        "firstSeen": 1500202342916,
+        "location": {
+            "x": 1522,
+            "y": 1950,
+            "map": 0
+        }
+    },
+    {
+        "owner": "killa",
+        "name": "An Unnamed House",
+        "condition": "This structure is in danger of collapsing.",
+        "firstSeen": 1500198455645,
+        "location": {
+            "x": 1146,
+            "y": 341,
+            "map": 3
+        }
+    },
+    {
+        "owner": "JO SMART",
+        "name": "An Unnamed House",
+        "condition": "This structure is greatly worn.",
+        "firstSeen": 1500198209841,
+        "location": {
+            "x": 2119,
+            "y": 1554,
+            "map": 3
+        }
+    },
+    {
+        "owner": "uni",
+        "name": "uduki kansitower",
+        "condition": "This structure is greatly worn.",
+        "firstSeen": 1500205110458,
+        "location": {
+            "x": 1071,
+            "y": 3110,
+            "map": 1
+        }
+    },
+    {
+        "owner": "Iona",
+        "name": "Heroes III",
+        "condition": "This structure is slightly worn.",
+        "firstSeen": 1500199446958,
+        "location": {
+            "x": 2224,
+            "y": 1259,
+            "map": 3
+        }
+    },
+    {
+        "owner": "Oryx",
+        "name": "King\u0027s Fall",
+        "condition": "This structure is somewhat worn.",
+        "firstSeen": 1500200863515,
+        "location": {
+            "x": 1730,
+            "y": 176,
+            "map": 3
+        }
+    },
+    {
+        "owner": "Valencia",
+        "name": "An Unnamed House",
+        "condition": "This structure is somewhat worn.",
+        "firstSeen": 1500198832400,
+        "location": {
+            "x": 1974,
+            "y": 799,
+            "map": 3
+        }
+    },
+    {
+        "owner": "Ambrosius",
+        "name": "An Unnamed House",
+        "condition": "This structure is slightly worn.",
+        "firstSeen": 1500198896929,
+        "location": {
+            "x": 1994,
+            "y": 603,
+            "map": 3
+        }
+    },
+    {
+        "owner": "William Harrison",
+        "name": "An Unnamed House",
+        "condition": "This structure is slightly worn.",
+        "firstSeen": 1500198066577,
+        "location": {
+            "x": 2059,
+            "y": 700,
+            "map": 3
+        }
+    },
+    {
+        "owner": "Wepkin",
+        "name": "An Unnamed House",
+        "condition": "This structure is fairly worn.",
+        "firstSeen": 1500200130704,
+        "location": {
+            "x": 1328,
+            "y": 1674,
+            "map": 3
+        }
+    },
+    {
+        "owner": "Zinethar",
+        "name": "An Unnamed House",
+        "condition": "This structure is fairly worn.",
+        "firstSeen": 1500205036075,
+        "location": {
+            "x": 1790,
+            "y": 2838,
+            "map": 1
+        }
+    }
+]
